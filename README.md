@@ -128,15 +128,21 @@ mastery_level:
 streamlit run app.py
 ```
 
-## 📱 Screenshots
+## 🚀 Live Demo
 
-[Add screenshots of your app here]
+The model is deployed using **Streamlit** and can be accessed here:
+
+🔗 https://ml-nu-study-resource-recommender.streamlit.app/
 
 ## 👨‍💻 Author
 
-Eman-Omar-Yehia-Abdelmawla
-Nile University
-ML project
+- Abdelmawla
+- Eman
+- Omar
+- Yehia
+
+Nile University, MAchine-intel project
+
 ## 📄 License
 
 This project is for educational purposes.
